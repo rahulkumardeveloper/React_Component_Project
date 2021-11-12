@@ -1,0 +1,17 @@
+
+body{
+  background-color: aqua;
+}
+#div{
+  background-color:white;
+  border-radius: 20px;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  margin-top: 70px;
+  align-items: center;
+}
+#heading{
+  color:blue;
+  font-family: 'Josefin Sans', sans-serif;
+}
